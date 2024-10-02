@@ -1,4 +1,4 @@
-//swapping values using arithmetic operators
+//swapping two values using arithmetic operators
 #include <stdio.h>
 int main() {
     
